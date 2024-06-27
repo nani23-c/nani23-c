@@ -6,7 +6,7 @@
 
 <img align="right" alt="mr_rob" width="350" src="https://giffiles.alphacoders.com/206/206730.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?
+
 username=tejdeeep&label=Profile%20views&color=0e75b6&style=flat" alt="nani23-c" /> </p>
 
 
