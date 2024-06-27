@@ -9,7 +9,7 @@
 
 - 🔭 I’m an undergraduate student at Amrita Vishwa Vidyapeetham , coimbatore **
 
-- - 👨‍💻 All of my projects are available at [github.com/nani23-c](github.com/nani23-c)
+-  👨‍💻 All of my projects are available at [github.com/nani23-c](github.com/nani23-c)
   
 - 🔭 I’m currently working on *Bluetooth Navigation** and **IOT Security**
 
