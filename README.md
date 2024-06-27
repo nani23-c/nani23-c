@@ -5,10 +5,10 @@
 <h3 align="center">Little bit of Coding and Little Bit of Security by force.</h3>
 
 
-username=tejdeeep&label=Profile%20views&color=0e75b6&style=flat" alt="nani23-c" /> </p>
+
 
 - 🔭 I’m an undergraduate student at Amrita Vishwa Vidyapeetham , coimbatore **
-- 
+
 - - 👨‍💻 All of my projects are available at [github.com/nani23-c](github.com/nani23-c)
   
 - 🔭 I’m currently working on *Bluetooth Navigation** and **IOT Security**
