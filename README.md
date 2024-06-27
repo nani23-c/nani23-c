@@ -4,8 +4,6 @@
 <h3 align="center">Learning about Computer,Curious about Mathematics and Sports.</h3>
 <h3 align="center">Little bit of Coding and Little Bit of Security by force.</h3>
 
-<img align="right" alt="mr_rob" width="350" src="">
-
 
 username=tejdeeep&label=Profile%20views&color=0e75b6&style=flat" alt="nani23-c" /> </p>
 
